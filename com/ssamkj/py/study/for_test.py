@@ -1,3 +1,5 @@
+import time
+
 a = [1,2,3,4]
 
 def test1():
@@ -22,3 +24,18 @@ def test4():
     print(result)
 
 test4()
+
+
+now = time.time()
+print()
+ii=0
+ii+=1
+print(ii)
+
+
+def helloworld(arg1, arg2, arg3):
+    print(arg1)
+    print(arg2)
+    print(arg3)
+
+helloworld(arg3='1', arg1='2', arg2='3')
