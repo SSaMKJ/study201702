@@ -232,6 +232,8 @@ if __name__ == "__main__":
   parser.add_argument(
       "--model_type",
       type=str,
+      # default="wide",
+      # default="deep",
       default="wide_n_deep",
       help="Valid model types: {'wide', 'deep', 'wide_n_deep'}."
   )
