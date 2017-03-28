@@ -1,4 +1,4 @@
 파이썬 스터디 중.
 
-정기적으로 진행해야 할텐데... 정기적으로 하지 않으니까 머리속에 쌓이지 않는다.
+Tensorflow1.0 [wide_n_deep_tutorial 분석](https://github.com/SSaMKJ/study201702/blob/master/com/ssamkj/py/wide_n_deep/notebook/wide_n_deep_tutorial.ipynb)
 
