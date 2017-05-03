@@ -1,0 +1,5 @@
+cell size[60]*layer size[1] 정확도[61.36]
+cell size[60]*layer size[2] 정확도[65.52]
+cell size[60]*layer size[3] 정확도[67.00]
+cell size[60]*layer size[4] 정확도[66.38]
+cell size[60]*layer size[5] 정확도[63.26]
